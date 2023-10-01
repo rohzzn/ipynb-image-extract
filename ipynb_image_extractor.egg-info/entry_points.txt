@@ -1,0 +1,2 @@
+[console_scripts]
+extract-images = ipynb_image_extractor.extractor:main
