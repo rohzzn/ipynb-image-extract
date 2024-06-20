@@ -7,7 +7,7 @@ ipynb-image-extractor is a Python package that allows you to easily extract imag
 You can install ipynb-image-extractor via pip:
 
 ```bash
-pip install ipynb-image-extractor
+pip install ipynb-image-extract
 ```
 
 ## Usage
